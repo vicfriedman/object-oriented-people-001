@@ -1,4 +1,7 @@
-
+---
+tags: OOP, properties, methods
+language: objc
+---
 
 ## Learning Goals
   1. Learn how Objects work
